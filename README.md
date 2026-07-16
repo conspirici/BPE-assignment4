@@ -1,2 +1,7 @@
 # BPE-assignment4
-BPE assignment 4 by Hasham Khalid, Saud and Shah Mansoor
+
+Business Process Engineering — Assignment 4  
+By Hasham Khalid, Saud, and Shah Mansoor
+
+## 📺 Explainer Video
+Watch the video explanation here: [BPE Assignment 4 – Explainer Video](https://youtu.be/w4AABy-CWFc)
